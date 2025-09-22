@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SupabaseURL</key>
+	<string>https://your-supabase-project.supabase.co</string>
+	<key>SupabaseAnonKey</key>
+	<string>${SUPABASE_ANON_KEY}</string>
+	<key>RevenueCatAPIKey</key>
+	<string>${REVENUECAT_API_KEY}</string>
+	<key>RevenueCatEntitlementID</key>
+	<string>${REVENUECAT_ENTITLEMENT_ID}</string>
+	<key>TermsURL</key>
+	<string>https://example.com/terms-debug</string>
+	<key>PrivacyURL</key>
+	<string>https://example.com/privacy-debug</string>
+</dict>
+</plist>

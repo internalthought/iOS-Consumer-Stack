@@ -1,0 +1,38 @@
+/* Generic */
+"generic.retry" = "Retry";
+"generic.skip" = "Skip";
+"generic.next" = "Next";
+"generic.continue" = "Continue";
+"generic.error_prefix" = "Error:";
+
+/* Legal */
+"legal.terms" = "Terms";
+"legal.privacy" = "Privacy";
+
+/* Paywall */
+"paywall.title" = "Upgrade to Premium";
+"paywall.loading" = "Loading plans...";
+"paywall.empty_state.title" = "No Plans Available";
+"paywall.empty_state.subtitle" = "We couldn't load subscription plans. Please try again.";
+"paywall.subscription_active_prefix" = "Subscription status:";
+"paywall.promo.placeholder" = "Promo Code";
+"paywall.promo.apply" = "Apply";
+"paywall.promo.applied" = "Promo code applied!";
+"paywall.subscribe_cta" = "Subscribe";
+"paywall.restore" = "Restore Purchases";
+"paywall.plan.selected" = "Selected";
+
+/* Survey */
+"survey.text.placeholder" = "Your answer";
+"survey.unsupported_type" = "Unsupported question type";
+"survey.loading" = "Loading survey...";
+"survey.empty.title" = "No questions available";
+"survey.empty.subtitle" = "Please check back later.";
+"survey.options.missing" = "Options not available";
+
+/* Value Screens */
+"valuescreens.get_started" = "Get Started";
+"valuescreens.loading" = "Loading value screens...";
+"valuescreens.error.title" = "Unable to Load Value Screens";
+"valuescreens.fallback.title" = "Welcome!";
+"valuescreens.fallback.subtitle" = "Discover what makes our app special";

@@ -1,0 +1,42 @@
+# Sensitive credentials and keys
+*.p8
+*.pem
+*.key
+*.keystore
+*.mobileprovision
+*.cer
+*.crt
+*.pfx
+
+# Environment configuration
+.env
+.env.*
+*.env
+*.env.*
+config/*.env
+Config/*.env
+
+# Supabase local secrets
+supabase/.secrets/
+supabase/.env
+
+# Build artifacts
+build/
+DerivedData/
+Config/*.plist
+app-template/Config/*.plist
+supabase/.temp/
+
+# Internal tooling artifacts
+.kilocode
+.kilocodemodes
+
+# StoreKit fixtures
+*.storekit
+
+# Documentation except main README
+*.md
+!README.md
+
+# JSON artifacts
+*.json
