@@ -40,3 +40,4 @@ supabase/.temp/
 
 # JSON artifacts
 *.json
+!app-template/Assets.xcassets/**/*.json
